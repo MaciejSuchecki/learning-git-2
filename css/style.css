@@ -1,5 +1,4 @@
-/* Variables */
-$font-text: 'Signika', sans-sernif;
+
 
 /* Global */
 
@@ -7,7 +6,7 @@ body {
     margin: 0;
     font-size: 16px;
     line-height: 1.2;
-    font-family: $font-text;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .container {
